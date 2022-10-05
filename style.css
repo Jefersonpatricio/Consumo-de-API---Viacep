@@ -1,0 +1,39 @@
+body {
+    margin: 20px;
+    background-color: #ededed;
+}
+
+.caixa-cep {
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+#return {
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: #3d80d7;
+}
+
+input {
+    height: 20px;
+    padding: 9px;
+    border-radius: 8px;
+    border: solid #3d80d7;
+    border-width: 3px;
+    font-family: helvetica;
+    font-size: 1rem;
+}
+
+button {
+    height: 48px;
+    border-radius: 8px;
+    background-color: #3d80d7;
+    color: white;
+    font-size: 1rem;
+    border: solid;
+}
